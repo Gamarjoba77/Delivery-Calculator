@@ -1,2 +1,0 @@
-# Delivery-Calculator
-Delivery Calculator 
